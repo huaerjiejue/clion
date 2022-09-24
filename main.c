@@ -29,6 +29,7 @@ int main() {
        a = 127;
     printf("-127 + 1 = %d",a+1);// 127+1=-128
     printf("i am fine ");
+    int e = 1;
 
 
     return 0;
